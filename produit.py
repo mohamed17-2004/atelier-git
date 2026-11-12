@@ -10,3 +10,7 @@ print("Prix unitaire :", prix, "DT")
 quantite = int(input("Donner la quantité en stock : "))
 # Affichage de la quantité
 print("Quantité en stock :", quantite)
+# Saisie de la quantité
+quantite = int(input("Donner la quantité en stock : "))
+# Affichage de la quantité
+print("Quantité en stock :", quantite)
